@@ -1,0 +1,22 @@
+.contact {
+  flex-direction: column;
+}
+#inline{
+  display:flex;
+} 
+#company{
+  padding: 25pt;
+  text-align: center;
+} 
+#companyName{
+  font-size: larger;
+  font-weight: bolder;
+  text-align: center;
+
+}
+#companyPosition{
+  font-size:medium;
+  padding-top: 7px;
+  text-align: center;
+
+}

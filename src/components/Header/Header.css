@@ -1,0 +1,15 @@
+.header {
+  height: 8em;
+  max-width: 1100px;
+  width: 95%;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.goldColour {
+  color: rgb(255, 215, 79);
+}
+@media (max-width: 600px) {
+  .header {
+    height: 6em;
+  }
+}
