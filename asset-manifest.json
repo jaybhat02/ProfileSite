@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ProfileSite/static/css/main.6f08b0a4.css",
+    "main.js": "/ProfileSite/static/js/main.d150faab.js",
+    "static/js/787.c3e2f841.chunk.js": "/ProfileSite/static/js/787.c3e2f841.chunk.js",
+    "static/media/Resume.pdf": "/ProfileSite/static/media/Resume.597f9300a82c5b061fbd.pdf",
+    "static/media/UWLogo.png": "/ProfileSite/static/media/UWLogo.e311ddde16f18dcafa5b.png",
+    "static/media/penserLogo.webp": "/ProfileSite/static/media/penserLogo.030ad02a34be274fde71.webp",
+    "index.html": "/ProfileSite/index.html",
+    "main.6f08b0a4.css.map": "/ProfileSite/static/css/main.6f08b0a4.css.map",
+    "main.d150faab.js.map": "/ProfileSite/static/js/main.d150faab.js.map",
+    "787.c3e2f841.chunk.js.map": "/ProfileSite/static/js/787.c3e2f841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f08b0a4.css",
+    "static/js/main.d150faab.js"
+  ]
+}
